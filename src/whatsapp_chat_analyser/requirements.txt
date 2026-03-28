@@ -1,0 +1,9 @@
+pandas
+python-dateutil
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+vaderSentiment
+tqdm
+streamlit
