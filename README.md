@@ -29,7 +29,7 @@ python -m pip install -r requirements.txt
 ### 2) Run analysis
 
 ```bash
-python run_analysis.py --chat "WhatsApp Chat with الشؤون الطلابية.txt" --out "outputs/sho2on"
+python run_analysis.py --chat "WhatsApp Chat with X.txt" --out "outputs/sho2on"
 ```
 
 Outputs:
